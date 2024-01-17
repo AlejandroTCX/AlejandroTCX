@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlejandroTCX
-- 👀 I’m interested in videogames, bmx and techno
-- 🌱 I’m currently learning some react and python 
-- 💞️ I’m looking to collaborate on nothing 
+- 👀 I’m interested in videogames, tattoo, fitness and techno
+- 🌱 I’m currently learning some javascript with react and little of java. 
+- 💞️ I’m looking to collaborate on web/mobileApps projects 
 - 📫 How to reach me send me dm on instagram alejandrotcx
 
 <!---
